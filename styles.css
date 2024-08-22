@@ -1,8 +1,8 @@
 .holder {
-  display: grid;              /* Enable CSS Grid layout */
-  grid-template-rows: repeat(2, 1fr); /* Create two equal rows */
-  grid-template-columns: repeat(2, 1fr); /* Create two equal columns */
-  width: 200px;               /* Set the total width of the grid */
-  height: 200px;              /* Set the total height of the grid */
-  gap: 0;                     /* Optional: Adjust gap between items if needed */
+  display: grid;              
+  grid-template-rows: repeat(2, 1fr); 
+  grid-template-columns: repeat(2, 1fr); 
+  width: 200px;               
+  height: 200px;              
+  gap: 0;                     
 }
